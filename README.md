@@ -4,7 +4,7 @@ Application de Scrabble : meilleur coup avec % de gain, duplicate chronométré,
 arbitre virtuel, entraînement et directs des tournois.
 
 **Télécharger :** [topscore.apk](https://github.com/zirignon/topscore-android/raw/main/topscore.apk)
-(toujours la dernière version : 1.2.0, construction 11, du 16 novembre 2026 : défi du jour à élimination, % de gain plus juste en fin de partie, conseil de passe) · présentation sur https://tournoi.topscore.ci/app
+(toujours la dernière version : 1.2.0, construction 12, du 16 novembre 2026 : défi du jour à élimination, vibrations, accessibilité, % de gain plus juste en fin de partie) · présentation sur https://tournoi.topscore.ci/app
 
 ## Installer
 1. Ouvrez le fichier téléchargé.
